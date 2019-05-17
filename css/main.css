@@ -8,7 +8,7 @@
 body {
     font-family: 'Mr Dafoe', cursive;
     color: #c9c1ac;
-    background: url(/img/background.jpg) center/cover
+    background: url(/img/background.jpg) center/cover;
     fixed no-repeat;
 }
 
